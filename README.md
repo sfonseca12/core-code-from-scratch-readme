@@ -13,7 +13,11 @@
 
 | Interpreted Programming Languages | Compliled Programming Languages |
 | --- | --- |
-| The target machine directly translates the program | The source code is not directly translated by the target machine. Instead, a different program, aka the interpreter, reads and executes the code |
+| The target machine directly translates the program | Compiled languages are converted directly into machine code that the processor can execute |
+| git diff | Show file differences that haven't been staged |
+| git diff | Show file differences that haven't been staged |
+| git diff | Show file differences that haven't been staged |
+| git diff | Show file differences that haven't been staged |
 | git diff | Show file differences that haven't been staged |
 
 
