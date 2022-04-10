@@ -9,7 +9,7 @@
     
    ## Week Challenges (Tuesday)
 
-## 1.Interpreted And Compiled Programming Languages
+### 1.Interpreted And Compiled Programming Languages
 
 | Interpreted Programming Languages | Compliled Programming Languages |
 | --- | --- |
@@ -26,5 +26,5 @@ Most programming languages can have both compiled and interpreted implementation
 
 Python, for example, can be executed as either a compiled program or as an interpreted language in interactive mode. On the other hand, most command line tools, CLIs, and shells can theoretically be classified as interpreted languages.
 
-## 2.Is Java compiled or interpreted, or both?
+### 2.Is Java compiled or interpreted, or both?
 
