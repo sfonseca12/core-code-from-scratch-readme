@@ -4,7 +4,7 @@
 
 1.[Week 1: Introduction to programming & Javascript](#1. Introduction to programing & Javascript)
 
-## Intoduction to programming & Javascript
+## 1. Intoduction to programming & Javascript
 
 1.Interpreted And Compiled Programming Languages
 
