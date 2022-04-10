@@ -20,7 +20,7 @@
 | Examples of common interpreted languages are PHP, Ruby, Python, and JavaScript. | Examples of pure compiled languages are C, C++, Erlang, Haskell, Rust, and Go. |
 | Because interpreters execute the source program code themselves, the code itself is platform independent. | Platform dependence of the generated binary code. |
 | Source code is public. | Source code is private. |
-| Interpreted languages requires an interpreter | Compiled languages need a “build” step – they need to be manually compiled first. |
+| Interpreted languages requires an interpreter. | Compiled languages need a “build” step – they need to be manually compiled first. |
 
 Most programming languages can have both compiled and interpreted implementations – the language itself is not necessarily compiled or interpreted. However, for simplicity’s sake, they’re typically referred to as such.
 
