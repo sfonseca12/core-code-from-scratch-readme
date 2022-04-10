@@ -13,7 +13,7 @@
 
 | Interpreted Programming Languages | Compliled Programming Languages |
 | --- | --- |
-| git status | List all new or modified files |
+| The target machine directly translates the program | The source code is not directly translated by the target machine. Instead, a different program, aka the interpreter, reads and executes the code |
 | git diff | Show file differences that haven't been staged |
 
 
