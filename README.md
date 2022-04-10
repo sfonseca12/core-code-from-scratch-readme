@@ -17,7 +17,7 @@
 | Interpreted languages were once significantly slower than compiled languages. But, with the development of just-in-time compilation, that gap is shrinking. | They tend to be faster and more efficient to execute than interpreted languages. |
 | Interpreted languages tend to be more flexible, and often offer features like dynamic typing and smaller program size. | They give the developer more control over hardware aspects, like memory management and CPU usage. |
 | git diff | Compiled languages need a “build” step – they need to be manually compiled first |
-| git diff | You need to “rebuild” the program every time you need to make a change |
+| Interpreters run through a program line by line and execute each command. | You need to “rebuild” the program every time you need to make a change. |
 | Examples of common interpreted languages are PHP, Ruby, Python, and JavaScript. | Examples of pure compiled languages are C, C++, Erlang, Haskell, Rust, and Go. |
 | Because interpreters execute the source program code themselves, the code itself is platform independent | Platform dependence of the generated binary code. |
 | git diff | Show file differences that haven't been staged |
