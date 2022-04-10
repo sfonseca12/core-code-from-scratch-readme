@@ -2,7 +2,8 @@
 
 ## Index
 
-1.[ Week 1: Introduction to programming & Javascript](#1-Week-1-Introduction-to-programing-&-Javascript)
+1. [ Week 1: Introduction to programming & Javascript](#1-Week-1-Introduction-to-programing-&-Javascript)
+2. .
 
 ## 1. Week 1: Intoduction to programming & Javascript
 
