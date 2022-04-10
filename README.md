@@ -11,7 +11,7 @@
 
 ## 1.Interpreted And Compiled Programming Languages
 
-| Command | Description |
+| Interpreted Programming Languages | Compliled Programming Languages |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
