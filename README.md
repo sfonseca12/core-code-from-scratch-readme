@@ -11,9 +11,7 @@
 
 ## 1.Interpreted And Compiled Programming Languages
 
-|Programing Languages|
-|--------------------|
-|**Interpreted**||**Compiled**|
+|**Interpreted Programminig Languages**||**Compiled Programming Languages**|
 |---------------||-------------|
 |jsdflshglhlfhjfg||lgkglsghlsh|
 |flkhlghhlhhvhv||dgkdklhjlkd|
