@@ -13,7 +13,7 @@
 
 | Interpreted Programming Languages | Compliled Programming Languages |
 | --- | --- |
-| Interpreters run through a program line by line and execute each command. | Compiled languages are converted directly into machine code that the processor can execute. |
+| the source code is not directly translated by the target machine. Instead, a different program, aka the interpreter, reads and executes the code. | Compiled languages are converted directly into machine code that the processor can execute. |
 | Interpreted languages were once significantly slower than compiled languages. But, with the development of just-in-time compilation, that gap is shrinking. | They tend to be faster and more efficient to execute than interpreted languages. |
 | Interpreted languages tend to be more flexible, and often offer features like dynamic typing and smaller program size. | They give the developer more control over hardware aspects, like memory management and CPU usage. |
 | git diff | Compiled languages need a “build” step – they need to be manually compiled first |
