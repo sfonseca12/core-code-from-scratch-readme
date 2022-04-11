@@ -48,9 +48,17 @@ It is technically possible to compile Java down to native code ahead-of-time and
  
  ### 1. Your date of birth in the matrix? exercise
  
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| Power of two  | Result |
+| ------------- | ------ |
+| 2^0  | 1  |
+| 2^1  | 2  |
+| 2^2  | 1  |
+| 2^3  | 2  |
+| 2^4  | 1  |
+| 2^5  | 2  |
+| 2^6  | 1  |
+| 2^7  | 2  |
+| 2^8  | 1  |
+| 2^9  | 2  |
+| 2^10  | 1  |
 
