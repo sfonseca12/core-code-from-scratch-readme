@@ -62,7 +62,7 @@ It is technically possible to compile Java down to native code ahead-of-time and
 | 2^9  | 512  |
 | 2^10  | 1024  |
 
-**Date of Birth:12/02/1992
+**Date of Birth:12/02/1992**
 
 | 1024    | 512   | 256   | 128   |64   | 32   | 16   | 8   | 4   | 2   | 1   |
 | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
