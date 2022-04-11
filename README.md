@@ -48,6 +48,8 @@ It is technically possible to compile Java down to native code ahead-of-time and
  
  ### 1. Your date of birth in the matrix? exercise
  
+ **Date of Birth:12/02/1992**
+ 
 | Power of two  | Result |
 | ------------- | ------ |
 | 2^0  | 1  |
@@ -62,8 +64,10 @@ It is technically possible to compile Java down to native code ahead-of-time and
 | 2^9  | 512  |
 | 2^10  | 1024  |
 
-**Date of Birth:12/02/1992**
+**Decimal:** 1992
 
 | 1024    | 512   | 256   | 128   |64   | 32   | 16   | 8   | 4   | 2   | 1   |
 | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1    | 1   | 1   | 1   | 1   | 0   | 0   | 1   | 0   | 1   | 1   |
+| 1    | 1   | 1   | 1   | 1   | 0   | 0   | 1   | 0   | 0   | 0   |
+
+**Binary:** 11111001000
