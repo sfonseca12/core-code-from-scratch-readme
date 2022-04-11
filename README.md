@@ -45,5 +45,7 @@ It is technically possible to compile Java down to native code ahead-of-time and
 
 
  ## Week challenges (Wednesday)
+ 
+ ### 1. Your date of birth in the matrix? exercise
 
 
