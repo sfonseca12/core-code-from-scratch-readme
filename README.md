@@ -62,6 +62,6 @@ It is technically possible to compile Java down to native code ahead-of-time and
 | 2^9  | 512  |
 | 2^10  | 1024  |
 
-
+| 1024    | 512   | 256   | 128   |64   | 32   | 16   | 8   | 4   | 2   | 1   |
 | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1    | 1   | 1   | 1   | 1   | 0   | 0   | 1   | 0   | 1   | 1   |
