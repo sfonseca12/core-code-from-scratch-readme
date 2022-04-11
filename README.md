@@ -48,7 +48,7 @@ It is technically possible to compile Java down to native code ahead-of-time and
  
  ### 1. Your date of birth in the matrix? exercise
  
-| ------------- | ------------- |
+
 | 2  | 1  |
 | Content Cell  | 2  |
 
