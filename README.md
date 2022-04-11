@@ -34,5 +34,12 @@ It is technically possible to compile Java down to native code ahead-of-time and
 
 ### 3. Pseudocode Currency Converter exercise
 
+1. START
+2. PRINT "Enter USD to be converted into BTC"
+3. USD <-- GET
+4. BTC <-- 0.000025
+5. converter <-- USD * BTC
+6. PRINT converter
+7. END
 
 
