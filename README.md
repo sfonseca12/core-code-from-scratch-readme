@@ -43,3 +43,6 @@ It is technically possible to compile Java down to native code ahead-of-time and
 7. END
 
 
+   ## Week Challenges (Tuesday)
+
+
