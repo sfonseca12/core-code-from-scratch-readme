@@ -6,6 +6,7 @@
 2. .
 
 # 1. Week 1: Intoduction to programming & Javascript
+
     
    ## Week Challenges (Tuesday)
 
