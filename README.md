@@ -85,3 +85,4 @@ It is technically possible to compile Java down to native code ahead-of-time and
 | ---- | --- | --- | --- | 
 | 1    | 1   | 0   | 0   | 
 
+### 2. MIPS exercise
