@@ -87,7 +87,7 @@ It is technically possible to compile Java down to native code ahead-of-time and
 
 ### 2. MIPS exercise
 
-**Create a program that adds any two given numbers provided by the user**
+### 1. Create a program that adds any two given numbers provided by the user
 
    
    
@@ -138,3 +138,7 @@ It is technically possible to compile Java down to native code ahead-of-time and
               li $v0, 1
               move $a0, $t2
               syscall
+              
+              
+ ### 2. Create a program that displays your name
+ 
