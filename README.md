@@ -88,3 +88,50 @@ It is technically possible to compile Java down to native code ahead-of-time and
 ### 2. MIPS exercise
 
 **Create a program that adds any two given numbers provided by the user**
+
+  .data
+        message: .asciiz "\nLet's add two numbers\n"
+        result: .asciiz "\nThe result is: "
+        number1: .asciiz "\nEnter the first number: "
+        number2: .asciiz "\nEnter the second number: "
+  .text
+        main:
+              # add two numbers message
+              li $v0, 4
+              la $a0, message
+              syscall
+
+              # user input
+              li $v0, 4
+              la $a0, number1
+              syscall
+
+              li $v0, 5
+              syscall
+
+              # saving user input
+              move $t0, $v0
+
+              # user input
+              li $v0, 4
+              la $a0, number2
+              syscall
+
+              li $v0, 5
+              syscall
+
+              # saving user input
+              move $t1, $v0
+
+              # adding the user numbers
+              add $t2, $t0, $t1
+
+              # showing result number
+              li $v0, 4
+              la $a0, result
+              syscall
+
+              # printing number
+              li $v0, 1
+              move $a0, $t2
+              syscall
