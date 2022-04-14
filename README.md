@@ -142,3 +142,11 @@ It is technically possible to compile Java down to native code ahead-of-time and
               
  ### 2. Create a program that displays your name
  
+    .data
+	      name: .asciiz "\nJuliana\n"
+    .text
+	      main:
+              li $v0, 4
+              la $a0, name
+              syscall
+ 
