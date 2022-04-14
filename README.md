@@ -149,4 +149,9 @@ It is technically possible to compile Java down to native code ahead-of-time and
               li $v0, 4
               la $a0, name
               syscall
+	      
+	      
+## Week challenges (Thursday)	
+
+### 1. Print special numbers exercise
  
