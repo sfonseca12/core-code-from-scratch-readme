@@ -89,19 +89,21 @@ It is technically possible to compile Java down to native code ahead-of-time and
 
 **Create a program that adds any two given numbers provided by the user**
 
-
-  .data
-        message .asciiz "\nLet's add two numbers\n"
+   
+   
+    .data
+        message: .asciiz "\nLet's add two numbers\n"
         result: .asciiz "\nThe result is: "
-        number1 .asciiz "\nEnter the first number: "
-        number2 .asciiz "\nEnter the second number: "
-  .text
+        number1: .asciiz "\nEnter the first number: "
+        number2: .asciiz "\nEnter the second number: "
+  
+    .text
         main:
               # add two numbers message
               li $v0, 4
               la $a0, message
               syscall
-
+              
               # user input
               li $v0, 4
               la $a0, number1
@@ -136,4 +138,3 @@ It is technically possible to compile Java down to native code ahead-of-time and
               li $v0, 1
               move $a0, $t2
               syscall
-
