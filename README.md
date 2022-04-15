@@ -176,5 +176,8 @@ It is technically possible to compile Java down to native code ahead-of-time and
      if(i % 2 == 0)console.log(i);
      i++
     } while(i<=100);
+    
+    
+### 2. Bad Code exercise
 
  
