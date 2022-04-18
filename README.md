@@ -3,7 +3,7 @@
 ## Index
 
 1. [ Week 1: Introduction to programming & Javascript](#1-Week-1-Introduction-to-programing-&-Javascript)
-2. .
+2. [ Week 2: Javascript](#2-Week-2-Javascript)
 
 # 1. Week 1: Intoduction to programming & Javascript
 
@@ -188,4 +188,11 @@ It is technically possible to compile Java down to native code ahead-of-time and
     console.log('This number is almost special');
     } else {
     console.log('Just a regular number');
+    
+    
+# 2. Week 2: Javascript
+
+## Week challenges (Monday)
+
+### 1. Follow the github course
  
