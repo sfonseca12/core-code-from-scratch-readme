@@ -192,7 +192,7 @@ It is technically possible to compile Java down to native code ahead-of-time and
     
 # 2. Week 2: Javascript
 
-## Week challenges (Monday)
+## Week challenges (Tuesday)
 
 ### 1. Follow the github course
  
