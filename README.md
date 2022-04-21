@@ -142,6 +142,8 @@ It is technically possible to compile Java down to native code ahead-of-time and
               
  ### 2. Create a program that displays your name
  
+ ```java
+ 
     .data
 	      name: .asciiz "\nJuliana\n"
     .text
@@ -149,6 +151,7 @@ It is technically possible to compile Java down to native code ahead-of-time and
               li $v0, 4
               la $a0, name
               syscall
+```
 	      
 	      
 ## Week challenges (Thursday)	
