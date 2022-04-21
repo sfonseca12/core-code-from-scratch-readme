@@ -180,6 +180,7 @@ It is technically possible to compile Java down to native code ahead-of-time and
     
 ### 2. Bad Code exercise
 
+```javascript
     var n = 100;
 
     if (n == 100) {
@@ -188,7 +189,7 @@ It is technically possible to compile Java down to native code ahead-of-time and
     console.log('This number is almost special');
     } else {
     console.log('Just a regular number');
-    
+``` 
     
 # 2. Week 2: Javascript
 
