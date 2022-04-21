@@ -196,10 +196,11 @@ It is technically possible to compile Java down to native code ahead-of-time and
 
 ### 1. Multiply exercise
 
-
-    function multiply(a, b){
-      return a * b;
-    }
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
     
 ### 2. ASCII Total exercise
 
