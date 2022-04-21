@@ -156,18 +156,21 @@ It is technically possible to compile Java down to native code ahead-of-time and
 ### 1. Print special numbers exercise
 
 ***FOR:**
-
+```javascript
     for (var i = 0; i <= 100; i++) {
       if (i % 2 == 0) console.log(i);
     }
+```
   
 ***WHILE:**
-     
+
+```javascript     
     var i = 0;
     while (i <= 100) {
       if (i % 2 == 0) console.log(i);
       i++;
     }
+ ```
    
 ***DO WHILE:**
 ```javascript
