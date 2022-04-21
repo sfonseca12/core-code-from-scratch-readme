@@ -90,7 +90,7 @@ It is technically possible to compile Java down to native code ahead-of-time and
 ### 1. Create a program that adds any two given numbers provided by the user
 
    
-   
+ ```assembly
     .data
         message: .asciiz "\nLet's add two numbers\n"
         result: .asciiz "\nThe result is: "
@@ -138,11 +138,13 @@ It is technically possible to compile Java down to native code ahead-of-time and
               li $v0, 1
               move $a0, $t2
               syscall
+	      
+```
               
               
  ### 2. Create a program that displays your name
  
- ```java
+ ```assembly
  
     .data
 	      name: .asciiz "\nJuliana\n"
