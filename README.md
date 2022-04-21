@@ -194,5 +194,11 @@ It is technically possible to compile Java down to native code ahead-of-time and
 
 ## Week challenges (Tuesday)
 
-### 1. Follow the github course
+### 1. Multiply exercise
+
+'''
+function multiply(a, b){
+  return a * b;
+}
+'''
  
